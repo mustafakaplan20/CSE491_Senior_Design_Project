@@ -8,7 +8,7 @@ public class SeniorProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SeniorProjectApplication.class, args);
-		System.out.println("Hello Project");
+		System.out.println("Hello Senior Project");
 		System.exit(0);
 	}
 
